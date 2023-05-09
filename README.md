@@ -1,4 +1,4 @@
-# MedicalCharges
+# Medical Charges
 This project involves exploratory data analysis, hypothesis testing and predictive modeling on medical cost data. The data set contains information about patients' age, sex, BMI, number of children, smoking status, region, and medical charges.
 
 ## Objectives
